@@ -499,6 +499,13 @@ a { color: inherit; text-decoration: none; }
     color: var(--orange-warm) !important;
 }
 
+.notice-card .info-note {
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-size: 0.8rem !important;
+    font-style: italic;
+    margin-top: 10px;
+}
+
 .info-link {
     display: inline-block;
     margin-top: 12px;
